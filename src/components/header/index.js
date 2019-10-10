@@ -4,7 +4,7 @@ import './style.css';
 
 const Header = () => (
   <header className="Header">
-    <h1 className="Header-title">ReactJS Marvel Searcher</h1>
+    <h1 className="Header-title">ReactJS Marvel Searchers</h1>
     <div className="MarvelBrand">
       <img src={logo} className="img-responsive center-block MarvelBrand-logo" alt="Marvel logo" />
       <small>Data provided by Marvel. © 2017 MARVEL</small>
